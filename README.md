@@ -1,2 +1,2 @@
 # Yahoo-Weather-App
-Trying to create a weather app using yahoo api
+Creating a weather app on Android Studio
